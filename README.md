@@ -1,9 +1,14 @@
-![Angstrem logo](https://raw.githubusercontent.com/angstrem/angstrem-spec/master/logo/Angstrem.png)
-
 # Angstrem
+<img
+  src='https://raw.githubusercontent.com/angstrem/angstrem-spec/master/logo/Angstrem.png'
+  width='256'
+  align='right'
+  alt='Angstrem logo'
+/>
 Experimental, for-fun multiparadigm language.
 
-## idea
+**idea**:
+
 The idea is to create very dynamic language built on robust phylosophy
 and experience of some other dynamic languages (mostly JavaScript).
 
